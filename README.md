@@ -203,3 +203,5 @@ This project uses FastAPI for handling API requests, and Streamlit for providing
 
 ## Conclusion
 This project demonstrates the integration of various technologies to build a personalized movie recommendation chatbot. It combines FastAPI for backend processing, Streamlit for frontend interaction, and leverages powerful language models and embeddings for data retrieval.
+
+# YOUTUBE VIDEO : https://youtu.be/zHrS01xWlPU
